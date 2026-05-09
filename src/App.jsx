@@ -239,7 +239,7 @@ useEffect(() => {
         <div className="container nav-flex">
 
           <div className="logo">
-            Jeet.
+            DevWithMe.
           </div>
 
           <nav className="nav-links">
@@ -693,7 +693,7 @@ useEffect(() => {
 
             <div className="footer-brand">
 
-              <h2>Jeet.</h2>
+              <h2>DevWithJitendra</h2>
 
               <p>
                 Crafting premium digital experiences with
